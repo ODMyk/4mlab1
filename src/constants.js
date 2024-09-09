@@ -1,0 +1,14 @@
+export const RELAXATION_LABEL = "Relaxation method";
+export const RELAXATION_TYPE = "RELAXATION_TYPE";
+export const NEWTHON_LABEL = "Newthon method";
+export const NEWTHON_TYPE = "NEWTHON_TYPE";
+export const INTRO1 = "Equation Solver by Dmytro Ostapenko";
+export const OUTRO1 = "x^3 + 3x^2 - x - 3 = 0";
+export const INTRO2 = "Collecting user input";
+export const OUTRO2 = "Input is received";
+export const INTRO3 = "Preapring for solution";
+export const OUTRO3 = "Preparation finished";
+export const INITIAL_ACCURACY = 0.001;
+export const RELAXATION_START = -1.25;
+export const NEWTHON_START = 0.75;
+export const RELAXATION_COEFFICIENT = 0.4;
